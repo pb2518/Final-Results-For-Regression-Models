@@ -1,0 +1,106 @@
+phenotype	type	unique_value	regression	genotype	beta	p	description
+FHOD3	integer	4	linear	NA	NA	NA	NA
+f.31.0.0	factor	3	logistic	FHOD3	-0.00890204955136741	0.0613282193696421	Sex
+f.46.0.0	integer	85	linear	FHOD3	0.0135624220815918	0.469635942929017	Hand grip strength (left)
+f.47.0.0	integer	88	linear	FHOD3	0.0377314938736521	0.0443435508047657	Hand grip strength (right)
+f.48.0.0	numeric	722	linear	FHOD3	-0.0206315983879263	0.467248848449806	Waist circumference
+f.49.0.0	numeric	589	linear	FHOD3	0.0236551114563591	0.275898694327602	Hip circumference
+f.50.0.0	numeric	543	linear	FHOD3	0.0084826544259466	0.58089894858864	Standing height
+f.84.0.0	integer	137	linear	FHOD3	11.5627636058463	0.0310363253301591	Cancer year/age first occurred
+f.93.0.0	integer	150	linear	FHOD3	0.0304852590223736	0.866748515284878	Systolic blood pressure, manual reading
+f.102.0.0	integer	132	linear	FHOD3	-0.122184976420359	1.89132338340531e-05	Pulse rate, automated reading
+f.134.0.0	integer	8	linear	FHOD3	-0.000452209316183842	0.539765724781481	Number of self-reported cancers
+f.135.0.0	integer	29	linear	FHOD3	-0.00754621683294528	0.0885525765415498	Number of self-reported non-cancer illnesses
+f.136.0.0	integer	21	linear	FHOD3	-0.0033073639398443	0.363108036209078	Number of operations, self-reported
+f.137.0.0	integer	33	linear	FHOD3	0.000927673853390981	0.88336040253164	Number of treatments/medications taken
+f.874.0.0	integer	279	linear	FHOD3	0.148989892338687	0.422604218933362	Duration of walks
+f.894.0.0	integer	243	linear	FHOD3	0.118622792054665	0.550293061734193	Duration of moderate activity
+f.914.0.0	integer	186	linear	FHOD3	-0.0906986983146504	0.534482113891968	Duration of vigorous activity
+f.1001.0.0	factor	10	logistic	FHOD3	-0.0176732493535345	0.825158304489823	Duration of strenuous sports
+f.1160.0.0	integer	23	linear	FHOD3	-0.004389042337627	0.137566962223546	Sleep duration
+f.1180.0.0	factor	7	logistic	FHOD3	0.00102315464239695	0.895535054050368	Morning/evening person (chronotype)
+f.1488.0.0	integer	53	linear	FHOD3	-0.00543996279274836	0.529631858382863	Tea intake
+f.1498.0.0	integer	43	linear	FHOD3	-0.00859714560307277	0.332828279292887	Coffee intake
+f.2335.0.0	factor	5	logistic	FHOD3	-0.000555604975250088	0.982665378228998	Chest pain or discomfort
+f.2734.0.0	integer	19	linear	NA	NA	NA	Number of live births
+f.3606.0.0	factor	5	logistic	FHOD3	0.0779210382174701	0.397841309408985	Chest pain or discomfort walking normally
+f.3647.0.0	factor	10	logistic	FHOD3	-0.0209981392457813	0.586616407704398	Duration of other exercises
+f.3751.0.0	factor	5	logistic	FHOD3	0.0108823154575843	0.798406848450799	Chest pain or discomfort when walking uphill or hurrying
+f.3829.0.0	integer	14	linear	NA	NA	NA	Number of stillbirths
+f.3839.0.0	integer	23	linear	NA	NA	NA	Number of spontaneous miscarriages
+f.3849.0.0	integer	14	linear	NA	NA	NA	Number of pregnancy terminations
+f.4079.0.0	integer	108	linear	FHOD3	-0.0666292849993581	0.00978478127635909	Diastolic blood pressure, automated reading
+f.4080.0.0	integer	184	linear	FHOD3	-0.044393479815796	0.352246747858739	Systolic blood pressure, automated reading
+f.4194.0.0	integer	130	linear	FHOD3	-0.122165867963584	0.0107152265263404	Pulse rate
+f.4501.0.0	factor	5	logistic	FHOD3	-0.0194930325267642	0.385458808414225	Non-accidental death in close genetic family
+f.4717.0.0	factor	5	logistic	FHOD3	0.0546708419249374	0.0950066318374853	Shortness of breath walking on level ground
+f.4728.0.0	factor	5	logistic	FHOD3	0.0605265036272948	0.176869298286877	Leg pain on walking
+f.5057.0.0	integer	20	linear	FHOD3	0.0080502700590716	0.178253464658857	Number of older siblings
+f.5364.0.0	integer	23	linear	FHOD3	0.00216275861977999	0.384812387601814	Average weekly intake of other alcoholic drinks
+f.5452.0.0	factor	5	logistic	FHOD3	0.0391280913561458	0.44534193872987	Leg pain when standing still or sitting
+f.5463.0.0	factor	5	logistic	FHOD3	0.094041608639003	0.204232264654317	Leg pain in calf/calves
+f.5485.0.0	factor	5	logistic	FHOD3	-0.0685164024907777	0.228656916964445	Leg pain when walking normally
+f.5529.0.0	factor	5	logistic	FHOD3	0.0992809373339107	0.503041861697606	Surgery on leg arteries (other than for varicose veins)
+f.5959.0.0	factor	4	logistic	FHOD3	0.359417366696947	0.755796451202205	Previously smoked cigarettes on most/all days
+f.5983.0.1	integer	122	linear	FHOD3	-0.13333683303503	0.0887178562692185	ECG, heart rate
+f.5985.0.0	integer	2	linear	NA	NA	NA	Bicycle speed
+f.6015.0.0	factor	4	logistic	FHOD3	-0.0240680703598195	0.391836736638771	Chest pain felt during physical activity
+f.6016.0.0	factor	4	logistic	FHOD3	-0.017081823568126	0.59584967557446	Chest pain felt outside physical activity
+f.6017.0.0	factor	4	logistic	FHOD3	0.0397826993452363	0.238049248195021	Able to walk or cycle unaided for 10 minutes
+f.6153.0.0	factor	9	logistic	NA	NA	NA	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones
+f.6154.0.0	factor	10	logistic	FHOD3	-0.036642886350008	0.146638226625049	Medication for pain relief, constipation, heartburn
+f.6155.0.0	factor	10	logistic	FHOD3	0.0524804824676398	0.168746876427463	Vitamin and mineral supplements
+f.6177.0.0	factor	7	logistic	NA	NA	NA	Medication for cholesterol, blood pressure or diabetes
+f.6179.0.0	factor	9	logistic	FHOD3	0.0344454117154472	0.556751207113382	Mineral and other dietary supplements
+f.6183.0.0	integer	34	linear	FHOD3	-0.513984339545023	0.225854820382938	Number of cigarettes previously smoked daily (current cigar/pipe smokers)
+f.12144.2.0	integer	65	linear	FHOD3	0.0289598646654951	0.604974518508399	Height
+f.12336.2.0	integer	110	linear	FHOD3	-0.107673073449889	0.285707013063927	Ventricular rate
+f.12338.2.0	integer	61	linear	FHOD3	-0.196880972849698	0.2103124605392	P duration
+f.12340.2.0	integer	77	linear	FHOD3	-0.453499661609302	0.000239212915196281	QRS duration
+f.12697.2.0	integer	199	linear	FHOD3	0.140959061237288	0.506077543267563	Systolic brachial blood pressure
+f.12698.2.0	integer	131	linear	FHOD3	-0.0923705211717133	0.417702663141072	Diastolic brachial blood pressure
+f.12702.2.0	numeric	1013	linear	FHOD3	0.0225137148368745	0.110130844789907	Cardiac index during PWA
+f.20022.0.0	numeric	279	linear	FHOD3	0.00055788605679496	0.786542107147466	Birth weight
+f.20107.0.0	factor	15	logistic	FHOD3	-0.00423767362782802	0.692129485844116	Illnesses of father
+f.20110.0.0	factor	15	logistic	FHOD3	-0.00600226705359031	0.668696153836088	Illnesses of mother
+f.20111.0.0	factor	16	logistic	FHOD3	0.00354828448892615	0.741013819712572	Illnesses of siblings
+f.20162.0.0	numeric	10858	linear	FHOD3	0.000561454451042908	0.752326384648237	Pack years adult smoking as proportion of life span exposed to smoking
+f.20414.0.0	factor	7	logistic	FHOD3	0.0656618806117675	0.588905331466246	Frequency of drinking alcohol
+f.21000.0.0	factor	2	logistic	NA	NA	NA	Ethnic background
+f.21001.0.0	numeric	43106	linear	FHOD3	0.00683728943609446	0.543600562059832	Body mass index (BMI)
+f.21002.0.0	numeric	1342	linear	FHOD3	0.0236064199016969	0.480474751870969	Weight
+f.21021.0.0	numeric	16899	linear	FHOD3	0.00739089885742542	0.659585109392734	Pulse wave Arterial Stiffness index
+f.22001.0.0	factor	3	logistic	FHOD3	0.049268040729309	0.567510280198771	Genetic sex
+f.22330.2.0	integer	129	linear	FHOD3	-0.0794286676722728	0.778966624218168	PQ interval
+f.22331.2.0	integer	161	linear	FHOD3	0.713498988994624	0.0330396731364969	QT interval
+f.22332.2.0	integer	241	linear	FHOD3	0.204895111826416	0.439613027755033	QTC interval
+f.22333.2.0	integer	565	linear	FHOD3	2.77813036552299	0.106782182191939	RR interval
+f.22334.2.0	integer	138	linear	FHOD3	2.74285985803621	0.143289768465063	PP interval
+f.22335.2.0	integer	174	linear	FHOD3	0.217772059499983	0.381961165671785	P axis
+f.22336.2.0	integer	278	linear	FHOD3	0.504149087886432	0.193950238291799	R axis
+f.22337.2.0	integer	339	linear	FHOD3	0.884473132819802	0.0146250893282803	T axis
+f.22338.2.0	integer	22	linear	FHOD3	-0.020606902257552	0.278101823652513	QRS num
+f.22400.0.0	numeric	888	linear	FHOD3	-0.0244257354656598	0.131675457004202	Liver iron (Fe)
+f.22401.0.0	numeric	909	linear	FHOD3	0.0182426179622591	0.212442073203005	Liver inflammation factor (LIF)
+f.22402.2.0	numeric	2815	linear	FHOD3	-0.0790653433263094	0.474887136830908	Liver fat percentage
+f.22407.2.0	numeric	5154	linear	FHOD3	0.0272804068007262	0.503868475721841	Visceral adipose tissue volume (VAT)
+f.22408.2.0	numeric	5143	linear	FHOD3	-0.0385371143667728	0.544430410264102	Abdominal subcutaneous adipose tissue volume (ASAT)
+f.22410.2.0	numeric	5121	linear	FHOD3	-0.0112570907381341	0.906638459237675	Total trunk fat
+f.22420.2.0	integer	66	linear	FHOD3	0.215608039927256	0.176793578022561	LV ejection fraction
+f.22421.2.0	integer	228	linear	FHOD3	-0.632012211382543	0.626663852734114	LV end diastolic volume
+f.22422.2.0	integer	157	linear	FHOD3	-0.541885388787424	0.603373757179131	LV end systolic volume
+f.22423.2.0	integer	129	linear	FHOD3	-0.0924870199524335	0.832296412020898	LV stroke volume
+f.22424.2.0	numeric	92	linear	FHOD3	-0.0183683651110089	0.496632997104025	Cardiac output
+f.22425.2.0	numeric	55	linear	FHOD3	-0.011878066913442	0.376615441313865	Cardiac index
+f.22426.2.0	integer	76	linear	FHOD3	-0.0753253570789753	0.751411491691299	Average heart rate
+f.22427.2.0	numeric	125	linear	FHOD3	0.00123886111762172	0.74016859957327	Body surface area
+f.22680.2.0	numeric	912	linear	FHOD3	0.739448535655621	0.634688587844117	Mean carotid IMT (intima-medial thickness) at 240 degrees
+f.23099.0.0	numeric	580	linear	FHOD3	0.00444025313495657	0.771391727575499	Body fat percentage
+f.23104.0.0	numeric	476	linear	FHOD3	0.00491955833671247	0.663191918253456	Body mass index (BMI)
+f.23105.0.0	numeric	2140	linear	FHOD3	1.32490073077911	0.51573147758155	Basal metabolic rate
+f.40001.0.0	factor	912	logistic	FHOD3	-0.773503889671838	0.588086293286448	Underlying (primary) cause of death: ICD10
+f.40007.0.0	numeric	7653	linear	FHOD3	-0.1005225467248	0.221041309965924	Age at death
+f.100580.3.0	factor	3	logistic	FHOD3	0.00665014982866807	0.520643890275479	Alcohol consumed
+f.104900.3.0	factor	9	logistic	FHOD3	-0.0119770833156947	0.253720606561139	Time spent doing vigorous physical activity
+f.104910.3.0	factor	9	logistic	FHOD3	-0.000703665422449	0.953062018336831	Time spent doing moderate physical activity
+f.104920.3.0	factor	9	logistic	FHOD3	0.0305788221400593	0.176792811585635	Time spent doing light physical activity

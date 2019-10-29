@@ -1,0 +1,106 @@
+phenotype	type	unique_value	regression	genotype	beta	p	description
+FHOD3	integer	4	linear	BAG3	0.00173588610873789	0.328142592101146	NA
+f.31.0.0	factor	3	logistic	BAG3	0.0128396844980864	0.0172277849440879	Sex
+f.46.0.0	integer	85	linear	BAG3	0.0044360522734284	0.834686817004328	Hand grip strength (left)
+f.47.0.0	integer	88	linear	BAG3	-0.000616906620457478	0.976856358596871	Hand grip strength (right)
+f.48.0.0	numeric	722	linear	BAG3	0.0320773580185097	0.318735783479503	Waist circumference
+f.49.0.0	numeric	589	linear	BAG3	0.00497682551459948	0.839730487529614	Hip circumference
+f.50.0.0	numeric	543	linear	BAG3	-0.136664312914252	4.27558158733721e-15	Standing height
+f.84.0.0	integer	137	linear	BAG3	-7.40100968219912	0.221348742373865	Cancer year/age first occurred
+f.93.0.0	integer	150	linear	BAG3	-0.426662704096144	0.0391660580093878	Systolic blood pressure, manual reading
+f.102.0.0	integer	132	linear	BAG3	-0.160786604054248	6.81177476266264e-07	Pulse rate, automated reading
+f.134.0.0	integer	8	linear	BAG3	0.000925919685113819	0.268014527416067	Number of self-reported cancers
+f.135.0.0	integer	29	linear	BAG3	-0.00188537380857643	0.707406290180127	Number of self-reported non-cancer illnesses
+f.136.0.0	integer	21	linear	BAG3	-0.00356875969818233	0.386577919204861	Number of operations, self-reported
+f.137.0.0	integer	33	linear	BAG3	-0.002572368158613	0.719666063194739	Number of treatments/medications taken
+f.874.0.0	integer	279	linear	BAG3	0.00346763388953239	0.986856800397697	Duration of walks
+f.894.0.0	integer	243	linear	BAG3	-0.258063889547772	0.251250469379393	Duration of moderate activity
+f.914.0.0	integer	186	linear	BAG3	0.00841182700606573	0.959484942148949	Duration of vigorous activity
+f.1001.0.0	factor	10	logistic	BAG3	0.111709249345782	0.233288131797915	Duration of strenuous sports
+f.1160.0.0	integer	23	linear	BAG3	-0.000436422636395713	0.896383920712899	Sleep duration
+f.1180.0.0	factor	7	logistic	BAG3	-0.0132286163129589	0.13281713041951	Morning/evening person (chronotype)
+f.1488.0.0	integer	53	linear	BAG3	0.00530649568842021	0.588569726954103	Tea intake
+f.1498.0.0	integer	43	linear	BAG3	0.00457400649275525	0.649382525625063	Coffee intake
+f.2335.0.0	factor	5	logistic	BAG3	-0.0134992740612047	0.640184386648495	Chest pain or discomfort
+f.2734.0.0	integer	19	linear	NA	NA	NA	Number of live births
+f.3606.0.0	factor	5	logistic	BAG3	-0.182642220799243	0.0626123949606077	Chest pain or discomfort walking normally
+f.3647.0.0	factor	10	logistic	BAG3	0.0242835884722316	0.583138165645228	Duration of other exercises
+f.3751.0.0	factor	5	logistic	BAG3	0.00723272186206974	0.880824300516663	Chest pain or discomfort when walking uphill or hurrying
+f.3829.0.0	integer	14	linear	NA	NA	NA	Number of stillbirths
+f.3839.0.0	integer	23	linear	NA	NA	NA	Number of spontaneous miscarriages
+f.3849.0.0	integer	14	linear	NA	NA	NA	Number of pregnancy terminations
+f.4079.0.0	integer	108	linear	BAG3	-0.144192303729988	8.08953549720795e-07	Diastolic blood pressure, automated reading
+f.4080.0.0	integer	184	linear	BAG3	-0.104883126105796	0.0524501373019974	Systolic blood pressure, automated reading
+f.4194.0.0	integer	130	linear	BAG3	-0.169534839271277	0.00174127160539603	Pulse rate
+f.4501.0.0	factor	5	logistic	BAG3	-0.0241500509609611	0.339456703641704	Non-accidental death in close genetic family
+f.4717.0.0	factor	5	logistic	BAG3	-0.055288887846096	0.125380117433349	Shortness of breath walking on level ground
+f.4728.0.0	factor	5	logistic	BAG3	0.0225928856750314	0.654295999499202	Leg pain on walking
+f.5057.0.0	integer	20	linear	BAG3	0.00348679470666809	0.606447882688987	Number of older siblings
+f.5364.0.0	integer	23	linear	BAG3	0.000138363676479054	0.960782770560412	Average weekly intake of other alcoholic drinks
+f.5452.0.0	factor	5	logistic	BAG3	-0.0289197123659551	0.614647949624895	Leg pain when standing still or sitting
+f.5463.0.0	factor	5	logistic	BAG3	0.0668036339552359	0.427946943853316	Leg pain in calf/calves
+f.5485.0.0	factor	5	logistic	BAG3	0.0420479217952986	0.525634221151274	Leg pain when walking normally
+f.5529.0.0	factor	5	logistic	BAG3	-0.166196038433389	0.288900192792072	Surgery on leg arteries (other than for varicose veins)
+f.5959.0.0	factor	4	logistic	BAG3	16.7145872863623	0.994511504515482	Previously smoked cigarettes on most/all days
+f.5983.0.1	integer	122	linear	BAG3	-0.137560404333236	0.118255408888271	ECG, heart rate
+f.5985.0.0	integer	2	linear	NA	NA	NA	Bicycle speed
+f.6015.0.0	factor	4	logistic	BAG3	-0.0272642962431664	0.389036651437479	Chest pain felt during physical activity
+f.6016.0.0	factor	4	logistic	BAG3	-0.0249623612530273	0.491334260286985	Chest pain felt outside physical activity
+f.6017.0.0	factor	4	logistic	BAG3	0.0577030450522158	0.130773874043899	Able to walk or cycle unaided for 10 minutes
+f.6153.0.0	factor	9	logistic	NA	NA	NA	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones
+f.6154.0.0	factor	10	logistic	BAG3	-0.0215975764109549	0.450545489107614	Medication for pain relief, constipation, heartburn
+f.6155.0.0	factor	10	logistic	BAG3	-0.0137163870241714	0.747986646311372	Vitamin and mineral supplements
+f.6177.0.0	factor	7	logistic	NA	NA	NA	Medication for cholesterol, blood pressure or diabetes
+f.6179.0.0	factor	9	logistic	BAG3	0.0030247454731451	0.963450869890317	Mineral and other dietary supplements
+f.6183.0.0	integer	34	linear	BAG3	0.139490399941481	0.771623305020444	Number of cigarettes previously smoked daily (current cigar/pipe smokers)
+f.12144.2.0	integer	65	linear	BAG3	-0.176779787445579	0.00528864134663825	Height
+f.12336.2.0	integer	110	linear	BAG3	-0.178149488665515	0.118770140520029	Ventricular rate
+f.12338.2.0	integer	61	linear	BAG3	0.32009071134306	0.0709345541541752	P duration
+f.12340.2.0	integer	77	linear	BAG3	-0.196478791811379	0.159612882611088	QRS duration
+f.12697.2.0	integer	199	linear	BAG3	-0.101910789796661	0.671274819579054	Systolic brachial blood pressure
+f.12698.2.0	integer	131	linear	BAG3	-0.0414633748693711	0.748199284504727	Diastolic brachial blood pressure
+f.12702.2.0	numeric	1013	linear	BAG3	0.00662836952200792	0.677832701004292	Cardiac index during PWA
+f.20022.0.0	numeric	279	linear	BAG3	0.00360845862930411	0.122043280479766	Birth weight
+f.20107.0.0	factor	15	logistic	BAG3	-0.00196242056925203	0.871502662140592	Illnesses of father
+f.20110.0.0	factor	15	logistic	BAG3	-0.0106968880570197	0.500301923964414	Illnesses of mother
+f.20111.0.0	factor	16	logistic	BAG3	0.00569294192766345	0.640445399695099	Illnesses of siblings
+f.20162.0.0	numeric	10858	linear	BAG3	-0.000586612258267777	0.770739818240237	Pack years adult smoking as proportion of life span exposed to smoking
+f.20414.0.0	factor	7	logistic	BAG3	0.020279114904927	0.882247449096557	Frequency of drinking alcohol
+f.21000.0.0	factor	2	logistic	NA	NA	NA	Ethnic background
+f.21001.0.0	numeric	43106	linear	BAG3	0.02241921109319	0.0789150506780599	Body mass index (BMI)
+f.21002.0.0	numeric	1342	linear	BAG3	-0.0641856778275742	0.0905491173175577	Weight
+f.21021.0.0	numeric	16899	linear	BAG3	-0.0197732159879546	0.29731357387311	Pulse wave Arterial Stiffness index
+f.22001.0.0	factor	3	logistic	BAG3	-0.0274483333505596	0.777628106646243	Genetic sex
+f.22330.2.0	integer	129	linear	BAG3	0.543984567135954	0.0879844779814988	PQ interval
+f.22331.2.0	integer	161	linear	BAG3	0.703630327264698	0.0628598069638888	QT interval
+f.22332.2.0	integer	241	linear	BAG3	-0.0392430482229915	0.895801784930618	QTC interval
+f.22333.2.0	integer	565	linear	BAG3	2.98898027092041	0.124664619799837	RR interval
+f.22334.2.0	integer	138	linear	BAG3	3.37695681390131	0.110614294237263	PP interval
+f.22335.2.0	integer	174	linear	BAG3	-0.0225834206400837	0.935831956968159	P axis
+f.22336.2.0	integer	278	linear	BAG3	1.96234964228569	7.52623551474563e-06	R axis
+f.22337.2.0	integer	339	linear	BAG3	0.641368935053778	0.116853298497743	T axis
+f.22338.2.0	integer	22	linear	BAG3	-0.0317011477726274	0.139751330273461	QRS num
+f.22400.0.0	numeric	888	linear	BAG3	0.00531637822104301	0.782695405543551	Liver iron (Fe)
+f.22401.0.0	numeric	909	linear	BAG3	-0.00383025596302657	0.82606022465597	Liver inflammation factor (LIF)
+f.22402.2.0	numeric	2815	linear	BAG3	-0.0382303314096626	0.760015940117287	Liver fat percentage
+f.22407.2.0	numeric	5154	linear	BAG3	0.0350719346873985	0.446668914387468	Visceral adipose tissue volume (VAT)
+f.22408.2.0	numeric	5143	linear	BAG3	0.018110474165491	0.800753473183862	Abdominal subcutaneous adipose tissue volume (ASAT)
+f.22410.2.0	numeric	5121	linear	BAG3	0.0531823964582144	0.623521819791488	Total trunk fat
+f.22420.2.0	integer	66	linear	BAG3	0.797191215472264	1.03210107299644e-05	LV ejection fraction
+f.22421.2.0	integer	228	linear	BAG3	-1.69492100170529	0.25031905522364	LV end diastolic volume
+f.22422.2.0	integer	157	linear	BAG3	-2.08963381382271	0.0773825125511022	LV end systolic volume
+f.22423.2.0	integer	129	linear	BAG3	0.401839161808067	0.417623888603021	LV stroke volume
+f.22424.2.0	numeric	92	linear	BAG3	0.0294161266354959	0.337190274961826	Cardiac output
+f.22425.2.0	numeric	55	linear	BAG3	0.00729456287156273	0.631955523905454	Cardiac index
+f.22426.2.0	integer	76	linear	BAG3	-0.041397042612113	0.878040705201414	Average heart rate
+f.22427.2.0	numeric	125	linear	BAG3	0.00291978710728713	0.490652214133622	Body surface area
+f.22680.2.0	numeric	912	linear	BAG3	-3.53578198307611	0.0439789155611372	Mean carotid IMT (intima-medial thickness) at 240 degrees
+f.23099.0.0	numeric	580	linear	BAG3	0.0257609392462299	0.137084363125641	Body fat percentage
+f.23104.0.0	numeric	476	linear	BAG3	0.0231475697367337	0.0706856876689312	Body mass index (BMI)
+f.23105.0.0	numeric	2140	linear	BAG3	-7.53882010563336	0.00110529374918368	Basal metabolic rate
+f.40001.0.0	factor	912	logistic	BAG3	16.8689445234887	0.996448809733245	Underlying (primary) cause of death: ICD10
+f.40007.0.0	numeric	7653	linear	BAG3	0.021891017237162	0.811654583125649	Age at death
+f.100580.3.0	factor	3	logistic	BAG3	-0.0013939780891633	0.905579676540505	Alcohol consumed
+f.104900.3.0	factor	9	logistic	BAG3	-0.00456310526981439	0.701694044256452	Time spent doing vigorous physical activity
+f.104910.3.0	factor	9	logistic	BAG3	0.00382025614826073	0.778493557678544	Time spent doing moderate physical activity
+f.104920.3.0	factor	9	logistic	BAG3	0.00927183220867201	0.717687363599732	Time spent doing light physical activity
